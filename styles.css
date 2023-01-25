@@ -132,7 +132,7 @@ footer :is(a:active, a:focus, a:hover){
 @media only screen and (orientation:landscape){
     .container{
         flex-direction: row; 
-        margin: 10vh 24vw 15vh 24vw;
+        margin: 15vh 24vw 15vh 24vw;
     }
 
     .card {
@@ -149,7 +149,7 @@ footer :is(a:active, a:focus, a:hover){
     }
 
     .card p{
-        padding: 0 2vw 2vh 0;
+        padding: 0 0vw 2vh 0;
         font-size: 1vw;
     }
 
